@@ -1,0 +1,14 @@
+{
+	"items": [
+		{ "id": "alfa-romeo",			"slug": "alfa-romeo",		"name": "Alfa Romeo",		"engine": "Ferrari", 	"country": "Italy" },
+		{ "id": "ferrari-2",			"slug": "ferrari",			"name": "Ferrari",			"engine": "Ferrari", 	"country": "Italy" },
+		{ "id": "haas",					"slug": "haas",				"name": "Haas",				"engine": "Ferrari", 	"country": "USA" },
+		{ "id": "mclaren",				"slug": "mclaren",			"name": "McLaren",			"engine": "Renault", 	"country": "UK" },
+		{ "id": "mercedes-2",			"slug": "mercedes",			"name": "Mercedes",			"engine": "Mercedes", 	"country": "Germany" },
+		{ "id": "racing-point",			"slug": "racing-point",		"name": "Racing Point",		"engine": "Mercedes", 	"country": "Canada" },
+		{ "id": "red-bull-racing",		"slug": "red-bull",			"name": "Red Bull",			"engine": "Honda", 		"country": "Austria" },
+		{ "id": "renault-2",			"slug": "renault",			"name": "Renault",			"engine": "Renault", 	"country": "France" },
+		{ "id": "scuderia-toro-rosso",	"slug": "toro-rosso",		"name": "Toro Rosso",		"engine": "Honda", 		"country": "Italy" },
+		{ "id": "williams",				"slug": "williams",			"name": "Williams",			"engine": "Mercedes", 	"country": "UK" }
+	]
+}

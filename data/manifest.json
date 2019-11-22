@@ -1,0 +1,8 @@
+{
+	"items":
+	[
+		{ "id": "calendar", 	"src": "data/calendar.json" },
+		{ "id": "drivers", 		"src": "data/drivers.json" },
+		{ "id": "teams", 		"src": "data/teams.json" }
+	]
+}

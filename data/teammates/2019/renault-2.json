@@ -1,0 +1,3605 @@
+[
+    {
+        "event": "AUS",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 11,
+                        "time": 85015,
+                        "gap": {
+                            "timeToLead": 1416,
+                            "lapsToLead": 15
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 16,
+                        "time": 85634,
+                        "gap": {
+                            "timeToLead": 2035,
+                            "lapsToLead": 10
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 37,
+                        "time": 83574,
+                        "gap": {
+                            "timeToLead": 974,
+                            "lapsToLead": -4
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 31,
+                        "time": 83644,
+                        "gap": {
+                            "timeToLead": 1044,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 14,
+                        "time": 83695,
+                        "gap": {
+                            "timeToLead": 1403,
+                            "lapsToLead": -2
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 15,
+                        "time": 83737,
+                        "gap": {
+                            "timeToLead": 1445,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 82540,
+                        "gap": {
+                            "timeToLead": 523,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 82921,
+                        "gap": {
+                            "timeToLead": 904,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 4,
+                        "time": 82562,
+                        "gap": {
+                            "timeToLead": 1548,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 82570,
+                        "gap": {
+                            "timeToLead": 1556,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 57,
+                        "time": 5132524,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DNF",
+                        "driver": "RIC",
+                        "laps": 28,
+                        "time": 2599322,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 30
+                        }
+                    }
+                ],
+                "leaderTime": 5127325,
+                "leaderAvgLap": 88402
+            }
+        ]
+    },
+    {
+        "event": "BHR",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 17,
+                        "time": 92040,
+                        "gap": {
+                            "timeToLead": 1686,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 19,
+                        "time": 92401,
+                        "gap": {
+                            "timeToLead": 2047,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 32,
+                        "time": 89669,
+                        "gap": {
+                            "timeToLead": 823,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 30,
+                        "time": 90848,
+                        "gap": {
+                            "timeToLead": 2002,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 12,
+                        "time": 90910,
+                        "gap": {
+                            "timeToLead": 1341,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 11,
+                        "time": 91643,
+                        "gap": {
+                            "timeToLead": 2074,
+                            "lapsToLead": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 89859,
+                        "gap": {
+                            "timeToLead": 1364,
+                            "lapsToLead": -2
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 90034,
+                        "gap": {
+                            "timeToLead": 1539,
+                            "lapsToLead": -2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 89488,
+                        "gap": {
+                            "timeToLead": 1442,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 53,
+                        "time": 5223906,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 4
+                        }
+                    },
+                    {
+                        "finishPosition": 18,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 53,
+                        "time": 5236482,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 4
+                        }
+                    }
+                ],
+                "leaderTime": 5661295,
+                "leaderAvgLap": 99320
+            }
+        ]
+    },
+    {
+        "event": "CHN",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 23,
+                        "time": 95239,
+                        "gap": {
+                            "timeToLead": 1328,
+                            "lapsToLead": -4
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 22,
+                        "time": 95591,
+                        "gap": {
+                            "timeToLead": 1680,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 31,
+                        "time": 94096,
+                        "gap": {
+                            "timeToLead": 766,
+                            "lapsToLead": 6
+                        }
+                    },
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 32,
+                        "time": 94336,
+                        "gap": {
+                            "timeToLead": 1006,
+                            "lapsToLead": 5
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 11,
+                        "time": 93974,
+                        "gap": {
+                            "timeToLead": 1144,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 11,
+                        "time": 95142,
+                        "gap": {
+                            "timeToLead": 2312,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 3,
+                        "time": 93644,
+                        "gap": {
+                            "timeToLead": 986,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 93709,
+                        "gap": {
+                            "timeToLead": 1051,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 92968,
+                        "gap": {
+                            "timeToLead": 1331,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 93214,
+                        "gap": {
+                            "timeToLead": 1577,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 92958,
+                        "gap": {
+                            "timeToLead": 1411,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 92962,
+                        "gap": {
+                            "timeToLead": 1415,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 55,
+                        "time": 5539395,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DNF",
+                        "driver": "HUL",
+                        "laps": 16,
+                        "time": 1669932,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 40
+                        }
+                    }
+                ],
+                "leaderTime": 5526350,
+                "leaderAvgLap": 98684
+            }
+        ]
+    },
+    {
+        "event": "AZE",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 1,
+                        "time": null,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 4
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 1,
+                        "time": null,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 15,
+                        "time": 105483,
+                        "gap": {
+                            "timeToLead": 2611,
+                            "lapsToLead": 13
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 24,
+                        "time": 106717,
+                        "gap": {
+                            "timeToLead": 3845,
+                            "lapsToLead": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 20,
+                        "time": 103561,
+                        "gap": {
+                            "timeToLead": 1957,
+                            "lapsToLead": -6
+                        }
+                    },
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 19,
+                        "time": 104043,
+                        "gap": {
+                            "timeToLead": 2439,
+                            "lapsToLead": -5
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 8,
+                        "time": 102486,
+                        "gap": {
+                            "timeToLead": 1060,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 8,
+                        "time": 103427,
+                        "gap": {
+                            "timeToLead": 2001,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 7,
+                        "time": 102477,
+                        "gap": {
+                            "timeToLead": 1089,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 50,
+                        "time": 5586125,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DNF",
+                        "driver": "RIC",
+                        "laps": 31,
+                        "time": 3479205,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 20
+                        }
+                    }
+                ],
+                "leaderTime": 5512942,
+                "leaderAvgLap": 108096
+            }
+        ]
+    },
+    {
+        "event": "ESP",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 25,
+                        "time": 79450,
+                        "gap": {
+                            "timeToLead": 1499,
+                            "lapsToLead": -6
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 24,
+                        "time": 79511,
+                        "gap": {
+                            "timeToLead": 1560,
+                            "lapsToLead": -5
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 43,
+                        "time": 78861,
+                        "gap": {
+                            "timeToLead": 1577,
+                            "lapsToLead": -8
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 40,
+                        "time": 78934,
+                        "gap": {
+                            "timeToLead": 1650,
+                            "lapsToLead": -5
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 17,
+                        "time": 78350,
+                        "gap": {
+                            "timeToLead": 1782,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 14,
+                        "time": 78974,
+                        "gap": {
+                            "timeToLead": 2406,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 7,
+                        "time": 78385,
+                        "gap": {
+                            "timeToLead": 1406,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 7,
+                        "time": 78404,
+                        "gap": {
+                            "timeToLead": 1425,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 77299,
+                        "gap": {
+                            "timeToLead": 1375,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 78106,
+                        "gap": {
+                            "timeToLead": 2700,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 66,
+                        "time": 5787201,
+                        "gap": {
+                            "timeToLead": 36758,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 66,
+                        "time": 5789684,
+                        "gap": {
+                            "timeToLead": 39241,
+                            "lapsToLead": 0
+                        }
+                    }
+                ],
+                "leaderTime": 5750443,
+                "leaderAvgLap": 87127
+            }
+        ]
+    },
+    {
+        "event": "MCO",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 45,
+                        "time": 73227,
+                        "gap": {
+                            "timeToLead": 1121,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 41,
+                        "time": 73413,
+                        "gap": {
+                            "timeToLead": 1307,
+                            "lapsToLead": 6
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 49,
+                        "time": 72872,
+                        "gap": {
+                            "timeToLead": 1754,
+                            "lapsToLead": -8
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 53,
+                        "time": 72888,
+                        "gap": {
+                            "timeToLead": 1770,
+                            "lapsToLead": -12
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 26,
+                        "time": 72489,
+                        "gap": {
+                            "timeToLead": 1224,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 26,
+                        "time": 72519,
+                        "gap": {
+                            "timeToLead": 1254,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 10,
+                        "time": 71767,
+                        "gap": {
+                            "timeToLead": 333,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 11,
+                        "time": 72097,
+                        "gap": {
+                            "timeToLead": 663,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 10,
+                        "time": 71543,
+                        "gap": {
+                            "timeToLead": 925,
+                            "lapsToLead": -2
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 9,
+                        "time": 71670,
+                        "gap": {
+                            "timeToLead": 1052,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 5,
+                        "time": 71218,
+                        "gap": {
+                            "timeToLead": 1052,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 78,
+                        "time": 6269331,
+                        "gap": {
+                            "timeToLead": 60894,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 77,
+                        "time": 6219847,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 6208437,
+                "leaderAvgLap": 79595
+            }
+        ]
+    },
+    {
+        "event": "CAN",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 31,
+                        "time": 74123,
+                        "gap": {
+                            "timeToLead": 1356,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 30,
+                        "time": 74474,
+                        "gap": {
+                            "timeToLead": 1707,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 40,
+                        "time": 73016,
+                        "gap": {
+                            "timeToLead": 839,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 42,
+                        "time": 73168,
+                        "gap": {
+                            "timeToLead": 991,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 16,
+                        "time": 72045,
+                        "gap": {
+                            "timeToLead": 1202,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 17,
+                        "time": 72305,
+                        "gap": {
+                            "timeToLead": 1462,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 9,
+                        "time": 71720,
+                        "gap": {
+                            "timeToLead": 520,
+                            "lapsToLead": -2
+                        }
+                    },
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 8,
+                        "time": 71837,
+                        "gap": {
+                            "timeToLead": 637,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 71532,
+                        "gap": {
+                            "timeToLead": 522,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 71553,
+                        "gap": {
+                            "timeToLead": 543,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 4,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 71071,
+                        "gap": {
+                            "timeToLead": 831,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 71324,
+                        "gap": {
+                            "timeToLead": 1084,
+                            "lapsToLead": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 69,
+                        "time": 5350157,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 69,
+                        "time": 5350559,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 5347084,
+                "leaderAvgLap": 76386
+            }
+        ]
+    },
+    {
+        "event": "FRA",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 18,
+                        "time": 94540,
+                        "gap": {
+                            "timeToLead": 1802,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 25,
+                        "time": 94810,
+                        "gap": {
+                            "timeToLead": 2072,
+                            "lapsToLead": -4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 34,
+                        "time": 93020,
+                        "gap": {
+                            "timeToLead": 2083,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 32,
+                        "time": 93081,
+                        "gap": {
+                            "timeToLead": 2144,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 12,
+                        "time": 91802,
+                        "gap": {
+                            "timeToLead": 1643,
+                            "lapsToLead": 6
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 15,
+                        "time": 92023,
+                        "gap": {
+                            "timeToLead": 1864,
+                            "lapsToLead": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 4,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 8,
+                        "time": 90865,
+                        "gap": {
+                            "timeToLead": 315,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 8,
+                        "time": 90954,
+                        "gap": {
+                            "timeToLead": 404,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 90369,
+                        "gap": {
+                            "timeToLead": 932,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 7,
+                        "time": 90544,
+                        "gap": {
+                            "timeToLead": 1107,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 89918,
+                        "gap": {
+                            "timeToLead": 1599,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 52,
+                        "time": 5080351,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 52,
+                        "time": 5088867,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 5071198,
+                "leaderAvgLap": 95682
+            }
+        ]
+    },
+    {
+        "event": "AUT",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 27,
+                        "time": 65846,
+                        "gap": {
+                            "timeToLead": 1008,
+                            "lapsToLead": 7
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 30,
+                        "time": 66383,
+                        "gap": {
+                            "timeToLead": 1545,
+                            "lapsToLead": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 27,
+                        "time": 66249,
+                        "gap": {
+                            "timeToLead": 1163,
+                            "lapsToLead": 10
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 30,
+                        "time": 66418,
+                        "gap": {
+                            "timeToLead": 1332,
+                            "lapsToLead": 7
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 21,
+                        "time": 65514,
+                        "gap": {
+                            "timeToLead": 1527,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 19,
+                        "time": 65878,
+                        "gap": {
+                            "timeToLead": 1891,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 7,
+                        "time": 64647,
+                        "gap": {
+                            "timeToLead": 840,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 64733,
+                        "gap": {
+                            "timeToLead": 926,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 64516,
+                        "gap": {
+                            "timeToLead": 1138,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 5,
+                        "time": 64790,
+                        "gap": {
+                            "timeToLead": 1412,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 70,
+                        "time": 4946886,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 70,
+                        "time": 4948613,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 4921822,
+                "leaderAvgLap": 69321
+            }
+        ]
+    },
+    {
+        "event": "GBR",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 21,
+                        "time": 88803,
+                        "gap": {
+                            "timeToLead": 1630,
+                            "lapsToLead": 4
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 24,
+                        "time": 89031,
+                        "gap": {
+                            "timeToLead": 1858,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 17,
+                        "time": 88128,
+                        "gap": {
+                            "timeToLead": 1396,
+                            "lapsToLead": 8
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 34,
+                        "time": 88217,
+                        "gap": {
+                            "timeToLead": 1485,
+                            "lapsToLead": -9
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 16,
+                        "time": 86945,
+                        "gap": {
+                            "timeToLead": 1040,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 15,
+                        "time": 86965,
+                        "gap": {
+                            "timeToLead": 1060,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 9,
+                        "time": 86428,
+                        "gap": {
+                            "timeToLead": 915,
+                            "lapsToLead": -4
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 9,
+                        "time": 86568,
+                        "gap": {
+                            "timeToLead": 1055,
+                            "lapsToLead": -4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 86283,
+                        "gap": {
+                            "timeToLead": 737,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 86397,
+                        "gap": {
+                            "timeToLead": 851,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 86182,
+                        "gap": {
+                            "timeToLead": 1089,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 86386,
+                        "gap": {
+                            "timeToLead": 1293,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 52,
+                        "time": 4922853,
+                        "gap": {
+                            "timeToLead": 54401,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 52,
+                        "time": 4941185,
+                        "gap": {
+                            "timeToLead": 72733,
+                            "lapsToLead": 0
+                        }
+                    }
+                ],
+                "leaderTime": 4868452,
+                "leaderAvgLap": 93624
+            }
+        ]
+    },
+    {
+        "event": "DEU",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 23,
+                        "time": 75567,
+                        "gap": {
+                            "timeToLead": 1554,
+                            "lapsToLead": -2
+                        }
+                    },
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 23,
+                        "time": 75823,
+                        "gap": {
+                            "timeToLead": 1810,
+                            "lapsToLead": -2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 26,
+                        "time": 74472,
+                        "gap": {
+                            "timeToLead": 1023,
+                            "lapsToLead": 7
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 33,
+                        "time": 75010,
+                        "gap": {
+                            "timeToLead": 1561,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 19,
+                        "time": 73496,
+                        "gap": {
+                            "timeToLead": 1116,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 18,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 20,
+                        "time": 73816,
+                        "gap": {
+                            "timeToLead": 1436,
+                            "lapsToLead": -2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 73131,
+                        "gap": {
+                            "timeToLead": 902,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 73186,
+                        "gap": {
+                            "timeToLead": 957,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 72766,
+                        "gap": {
+                            "timeToLead": 617,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 72799,
+                        "gap": {
+                            "timeToLead": 650,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 3,
+                        "time": 73126,
+                        "gap": {
+                            "timeToLead": 1359,
+                            "lapsToLead": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DNF",
+                        "driver": "HUL",
+                        "laps": 39,
+                        "time": 3949533,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 25
+                        }
+                    },
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DNF",
+                        "driver": "RIC",
+                        "laps": 13,
+                        "time": 1332274,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 51
+                        }
+                    }
+                ],
+                "leaderTime": 6271275,
+                "leaderAvgLap": 97988
+            }
+        ]
+    },
+    {
+        "event": "HUN",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 31,
+                        "time": 78417,
+                        "gap": {
+                            "timeToLead": 1184,
+                            "lapsToLead": 10
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 30,
+                        "time": 78894,
+                        "gap": {
+                            "timeToLead": 1661,
+                            "lapsToLead": 11
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 13,
+                        "time": 78597,
+                        "gap": {
+                            "timeToLead": 743,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 14,
+                        "time": 78892,
+                        "gap": {
+                            "timeToLead": 1038,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 19,
+                        "time": 77667,
+                        "gap": {
+                            "timeToLead": 1583,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 19,
+                        "time": 77962,
+                        "gap": {
+                            "timeToLead": 1878,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 76790,
+                        "gap": {
+                            "timeToLead": 973,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 18,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 77257,
+                        "gap": {
+                            "timeToLead": 1440,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 76565,
+                        "gap": {
+                            "timeToLead": 1017,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 69,
+                        "time": 5782002,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 69,
+                        "time": 5782993,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 5703796,
+                "leaderAvgLap": 81482
+            }
+        ]
+    },
+    {
+        "event": "BEL",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 23,
+                        "time": 106426,
+                        "gap": {
+                            "timeToLead": 1852,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 23,
+                        "time": 106669,
+                        "gap": {
+                            "timeToLead": 2095,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 26,
+                        "time": 105735,
+                        "gap": {
+                            "timeToLead": 1612,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 26,
+                        "time": 106209,
+                        "gap": {
+                            "timeToLead": 2086,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 4,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 10,
+                        "time": 104974,
+                        "gap": {
+                            "timeToLead": 768,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 11,
+                        "time": 105855,
+                        "gap": {
+                            "timeToLead": 1649,
+                            "lapsToLead": -2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 5,
+                        "time": 105560,
+                        "gap": {
+                            "timeToLead": 1973,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 5,
+                        "time": 105899,
+                        "gap": {
+                            "timeToLead": 2312,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 104103,
+                        "gap": {
+                            "timeToLead": 1165,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 104549,
+                        "gap": {
+                            "timeToLead": 1611,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 104257,
+                        "gap": {
+                            "timeToLead": 1738,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 5,
+                        "time": 104542,
+                        "gap": {
+                            "timeToLead": 2023,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 44,
+                        "time": 5132349,
+                        "gap": {
+                            "timeToLead": 106639,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 43,
+                        "time": 5048466,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 5025710,
+                "leaderAvgLap": 114220
+            }
+        ]
+    },
+    {
+        "event": "ITA",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 10,
+                        "time": 94528,
+                        "gap": {
+                            "timeToLead": 6623,
+                            "lapsToLead": 10
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 10,
+                        "time": 95133,
+                        "gap": {
+                            "timeToLead": 7228,
+                            "lapsToLead": 10
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 36,
+                        "time": 82249,
+                        "gap": {
+                            "timeToLead": 1271,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 37,
+                        "time": 82338,
+                        "gap": {
+                            "timeToLead": 1360,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 11,
+                        "time": 80564,
+                        "gap": {
+                            "timeToLead": 270,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 13,
+                        "time": 80752,
+                        "gap": {
+                            "timeToLead": 458,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 2,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 3,
+                        "time": 80155,
+                        "gap": {
+                            "timeToLead": 29,
+                            "lapsToLead": 4
+                        }
+                    },
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 3,
+                        "time": 80374,
+                        "gap": {
+                            "timeToLead": 248,
+                            "lapsToLead": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 4,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 5,
+                        "time": 79833,
+                        "gap": {
+                            "timeToLead": 369,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 80275,
+                        "gap": {
+                            "timeToLead": 811,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 5,
+                        "time": 79839,
+                        "gap": {
+                            "timeToLead": 532,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 5,
+                        "time": 80049,
+                        "gap": {
+                            "timeToLead": 742,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 4,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 53,
+                        "time": 4572180,
+                        "gap": {
+                            "timeToLead": 45515,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 53,
+                        "time": 4584830,
+                        "gap": {
+                            "timeToLead": 58165,
+                            "lapsToLead": 0
+                        }
+                    }
+                ],
+                "leaderTime": 4526665,
+                "leaderAvgLap": 85408
+            }
+        ]
+    },
+    {
+        "event": "SGP",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 26,
+                        "time": 101812,
+                        "gap": {
+                            "timeToLead": 1553,
+                            "lapsToLead": -4
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 20,
+                        "time": 102527,
+                        "gap": {
+                            "timeToLead": 2268,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 30,
+                        "time": 100324,
+                        "gap": {
+                            "timeToLead": 1551,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 30,
+                        "time": 100811,
+                        "gap": {
+                            "timeToLead": 2038,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 15,
+                        "time": 100118,
+                        "gap": {
+                            "timeToLead": 1926,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 12,
+                        "time": 100153,
+                        "gap": {
+                            "timeToLead": 1961,
+                            "lapsToLead": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 99001,
+                        "gap": {
+                            "timeToLead": 1684,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 99362,
+                        "gap": {
+                            "timeToLead": 2045,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 98399,
+                        "gap": {
+                            "timeToLead": 1749,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 98580,
+                        "gap": {
+                            "timeToLead": 1930,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 98264,
+                        "gap": {
+                            "timeToLead": 2047,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": null,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 61,
+                        "time": 7130385,
+                        "gap": {
+                            "timeToLead": 16718,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 61,
+                        "time": 7151327,
+                        "gap": {
+                            "timeToLead": 37660,
+                            "lapsToLead": 0
+                        }
+                    }
+                ],
+                "leaderTime": 7113667,
+                "leaderAvgLap": 116617
+            }
+        ]
+    },
+    {
+        "event": "RUS",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 21,
+                        "time": 95740,
+                        "gap": {
+                            "timeToLead": 1278,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 20,
+                        "time": 96287,
+                        "gap": {
+                            "timeToLead": 1825,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 33,
+                        "time": 95026,
+                        "gap": {
+                            "timeToLead": 1864,
+                            "lapsToLead": -4
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 28,
+                        "time": 95370,
+                        "gap": {
+                            "timeToLead": 2208,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 13,
+                        "time": 94421,
+                        "gap": {
+                            "timeToLead": 1688,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 14,
+                        "time": 94586,
+                        "gap": {
+                            "timeToLead": 1853,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 94138,
+                        "gap": {
+                            "timeToLead": 1106,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 3,
+                        "time": 94236,
+                        "gap": {
+                            "timeToLead": 1204,
+                            "lapsToLead": 6
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 93862,
+                        "gap": {
+                            "timeToLead": 1428,
+                            "lapsToLead": -1
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 93898,
+                        "gap": {
+                            "timeToLead": 1464,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 93289,
+                        "gap": {
+                            "timeToLead": 1661,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 93661,
+                        "gap": {
+                            "timeToLead": 2033,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 53,
+                        "time": 5678833,
+                        "gap": {
+                            "timeToLead": 59841,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DNF",
+                        "driver": "RIC",
+                        "laps": 24,
+                        "time": 2621568,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 29
+                        }
+                    }
+                ],
+                "leaderTime": 5618992,
+                "leaderAvgLap": 106018
+            }
+        ]
+    },
+    {
+        "event": "JPN",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 29,
+                        "time": 91426,
+                        "gap": {
+                            "timeToLead": 2695,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 25,
+                        "time": 91563,
+                        "gap": {
+                            "timeToLead": 2832,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 30,
+                        "time": 89859,
+                        "gap": {
+                            "timeToLead": 2074,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 18,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 29,
+                        "time": 90334,
+                        "gap": {
+                            "timeToLead": 2549,
+                            "lapsToLead": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 9,
+                        "time": 89619,
+                        "gap": {
+                            "timeToLead": 1214,
+                            "lapsToLead": -2
+                        }
+                    },
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 8,
+                        "time": 89822,
+                        "gap": {
+                            "timeToLead": 1417,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 4,
+                        "time": 90112,
+                        "gap": {
+                            "timeToLead": 2424,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DSQ",
+                        "driver": "RIC",
+                        "laps": 51,
+                        "time": 4917458,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": null,
+                        "classifiedStatus": "DSQ",
+                        "driver": "HUL",
+                        "laps": 51,
+                        "time": 4930780,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 4906755,
+                "leaderAvgLap": 94360
+            }
+        ]
+    },
+    {
+        "event": "MEX",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 22,
+                        "time": 79011,
+                        "gap": {
+                            "timeToLead": 1684,
+                            "lapsToLead": 3
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 23,
+                        "time": 79499,
+                        "gap": {
+                            "timeToLead": 2172,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 23,
+                        "time": 78261,
+                        "gap": {
+                            "timeToLead": 1654,
+                            "lapsToLead": 12
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 34,
+                        "time": 78380,
+                        "gap": {
+                            "timeToLead": 1773,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 19,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 1,
+                        "time": null,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 13
+                        }
+                    },
+                    {
+                        "finishPosition": 20,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": null,
+                        "time": null,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": null
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 8,
+                        "time": 77270,
+                        "gap": {
+                            "timeToLead": 1321,
+                            "lapsToLead": -5
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 8,
+                        "time": 77608,
+                        "gap": {
+                            "timeToLead": 1659,
+                            "lapsToLead": -5
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 76885,
+                        "gap": {
+                            "timeToLead": 1164,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 76933,
+                        "gap": {
+                            "timeToLead": 1212,
+                            "lapsToLead": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 71,
+                        "time": 5883828,
+                        "gap": {
+                            "timeToLead": 74924,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 70,
+                        "time": 5836515,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 5808904,
+                "leaderAvgLap": 81815
+            }
+        ]
+    },
+    {
+        "event": "USA",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 5,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 29,
+                        "time": 95263,
+                        "gap": {
+                            "timeToLead": 1206,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 16,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 24,
+                        "time": 96124,
+                        "gap": {
+                            "timeToLead": 2067,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 29,
+                        "time": 94924,
+                        "gap": {
+                            "timeToLead": 1692,
+                            "lapsToLead": 5
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 32,
+                        "time": 94988,
+                        "gap": {
+                            "timeToLead": 1756,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 11,
+                        "time": 94774,
+                        "gap": {
+                            "timeToLead": 1469,
+                            "lapsToLead": 2
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 11,
+                        "time": 94784,
+                        "gap": {
+                            "timeToLead": 1479,
+                            "lapsToLead": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 8,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 93835,
+                        "gap": {
+                            "timeToLead": 482,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 94092,
+                        "gap": {
+                            "timeToLead": 739,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 93608,
+                        "gap": {
+                            "timeToLead": 848,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 93815,
+                        "gap": {
+                            "timeToLead": 1055,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": [
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 3,
+                        "time": 93488,
+                        "gap": {
+                            "timeToLead": 1459,
+                            "lapsToLead": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 56,
+                        "time": 5726019,
+                        "gap": {
+                            "timeToLead": 90366,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 9,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 55,
+                        "time": 5648115,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    }
+                ],
+                "leaderTime": 5635653,
+                "leaderAvgLap": 100636
+            }
+        ]
+    },
+    {
+        "event": "BRA",
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 8,
+                        "time": 77899,
+                        "gap": {
+                            "timeToLead": 1757,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 9,
+                        "time": 77985,
+                        "gap": {
+                            "timeToLead": 1843,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 7,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 32,
+                        "time": 70194,
+                        "gap": {
+                            "timeToLead": 977,
+                            "lapsToLead": -2
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 31,
+                        "time": 70325,
+                        "gap": {
+                            "timeToLead": 1108,
+                            "lapsToLead": -1
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 13,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 17,
+                        "time": 69650,
+                        "gap": {
+                            "timeToLead": 1330,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 17,
+                        "time": 69761,
+                        "gap": {
+                            "timeToLead": 1441,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 10,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 69050,
+                        "gap": {
+                            "timeToLead": 808,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 11,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 69086,
+                        "gap": {
+                            "timeToLead": 844,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": [
+                    {
+                        "finishPosition": 12,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 6,
+                        "time": 68903,
+                        "gap": {
+                            "timeToLead": 1400,
+                            "lapsToLead": -3
+                        }
+                    },
+                    {
+                        "finishPosition": 14,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 6,
+                        "time": 68921,
+                        "gap": {
+                            "timeToLead": 1418,
+                            "lapsToLead": -3
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 6,
+                        "classifiedStatus": "CLA",
+                        "driver": "RIC",
+                        "laps": 71,
+                        "time": 5605219,
+                        "gap": {
+                            "timeToLead": 10541,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 15,
+                        "classifiedStatus": "CLA",
+                        "driver": "HUL",
+                        "laps": 71,
+                        "time": 5612737,
+                        "gap": {
+                            "timeToLead": 18059,
+                            "lapsToLead": 0
+                        }
+                    }
+                ],
+                "leaderTime": 5594678,
+                "leaderAvgLap": 78798
+            }
+        ]
+    },
+    {
+        "event": "ARE",
+        "sessions": []
+    }
+]

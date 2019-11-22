@@ -1,0 +1,25 @@
+{
+	"items": [
+		{ "id": "AUS",		"country": "Australia",		"alt": "Australian",	"location": "Melbourne"			},
+		{ "id": "BHR",		"country": "Bahrain",		"alt": "Bahrain", 		"location": "Bahrain"			},
+		{ "id": "CHN",		"country": "China",			"alt": "Chinese", 		"location": "Shanghai"			},
+		{ "id": "AZE",		"country": "Azerbaijan",	"alt": "Azerbaijan",	"location": "Baku"		 		},
+		{ "id": "ESP",		"country": "Spain",			"alt": "ESPA?A", 		"location": "Barcelona" 		},
+		{ "id": "MCO",		"country": "Monaco",		"alt": "Monaco", 		"location": "Monaco" 			},
+		{ "id": "CAN",		"country": "Canada",		"alt": "Canadian", 		"location": "Montreal" 			},
+		{ "id": "FRA",		"country": "France",		"alt": "French", 		"location": "Paul Ricard" 		},
+		{ "id": "AUT",		"country": "Austria",		"alt": "?STERREICH", 	"location": "Spielberg" 		},
+		{ "id": "GBR",		"country": "UK",			"alt": "British", 		"location": "Silverstone" 		},
+		{ "id": "DEU",		"country": "Germany",		"alt": "Deutschland", 	"location": "Hockenheim" 		},
+		{ "id": "HUN",		"country": "Hungary",		"alt": "NAGYD?J", 		"location": "Hungaroring" 		},
+		{ "id": "BEL",		"country": "Belgium",		"alt": "Belgian", 		"location": "Spa-Francorchamps" },
+		{ "id": "ITA",		"country": "Italy",			"alt": "ITALIA", 		"location": "Monza" 			},
+		{ "id": "SGP",		"country": "Singapore",		"alt": "Singapore", 	"location": "Marina Bay" 		},
+		{ "id": "RUS",		"country": "Russia",		"alt": "Russian", 		"location": "Sochi" 			},
+		{ "id": "JPN",		"country": "Japan",			"alt": "Japanese", 		"location": "Suzuka"		 	},
+		{ "id": "MEX",		"country": "Mexico",		"alt": "M?XICO", 		"location": "Mexico City" 		},
+		{ "id": "USA",		"country": "USA",			"alt": "United States",	"location": "Austin" 			},
+		{ "id": "BRA",		"country": "Brazil",		"alt": "Brasil", 		"location": "São Paulo"		 	},
+		{ "id": "ARE",		"country": "Abu Dhabi",		"alt": "Abu Dhabi", 	"location": "Yas Marina"	 	}
+	]
+}
