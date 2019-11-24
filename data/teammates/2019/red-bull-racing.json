@@ -13,7 +13,7 @@
                         "time": 83792,
                         "gap": {
                             "timeToLead": 193,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -24,7 +24,7 @@
                         "time": 84932,
                         "gap": {
                             "timeToLead": 1333,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -51,7 +51,7 @@
                         "time": 83442,
                         "gap": {
                             "timeToLead": 842,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -67,7 +67,7 @@
                         "time": 83367,
                         "gap": {
                             "timeToLead": 1075,
-                            "lapsToLead": -5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -78,7 +78,7 @@
                         "time": 83481,
                         "gap": {
                             "timeToLead": 1189,
-                            "lapsToLead": -7
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -94,7 +94,7 @@
                         "time": 82876,
                         "gap": {
                             "timeToLead": 859,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -105,7 +105,7 @@
                         "time": 83020,
                         "gap": {
                             "timeToLead": 1003,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -187,7 +187,7 @@
                         "time": 91673,
                         "gap": {
                             "timeToLead": 1319,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -198,7 +198,7 @@
                         "time": 91815,
                         "gap": {
                             "timeToLead": 1461,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -214,7 +214,7 @@
                         "time": 89725,
                         "gap": {
                             "timeToLead": 879,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -225,7 +225,7 @@
                         "time": 90429,
                         "gap": {
                             "timeToLead": 1583,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -241,7 +241,7 @@
                         "time": 90959,
                         "gap": {
                             "timeToLead": 1390,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -252,7 +252,7 @@
                         "time": 91392,
                         "gap": {
                             "timeToLead": 1823,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -268,7 +268,7 @@
                         "time": 89579,
                         "gap": {
                             "timeToLead": 1084,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -279,7 +279,7 @@
                         "time": 89900,
                         "gap": {
                             "timeToLead": 1405,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -295,7 +295,7 @@
                         "time": 89109,
                         "gap": {
                             "timeToLead": 1063,
-                            "lapsToLead": -3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -306,7 +306,7 @@
                         "time": 89526,
                         "gap": {
                             "timeToLead": 1480,
-                            "lapsToLead": -3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -322,7 +322,7 @@
                         "time": 88752,
                         "gap": {
                             "timeToLead": 886,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -372,7 +372,7 @@
                         "time": 94334,
                         "gap": {
                             "timeToLead": 423,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -383,7 +383,7 @@
                         "time": 95428,
                         "gap": {
                             "timeToLead": 1517,
-                            "lapsToLead": -4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -399,7 +399,7 @@
                         "time": 93551,
                         "gap": {
                             "timeToLead": 221,
-                            "lapsToLead": 8
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -410,7 +410,7 @@
                         "time": 94455,
                         "gap": {
                             "timeToLead": 1125,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -426,7 +426,7 @@
                         "time": 94447,
                         "gap": {
                             "timeToLead": 1617,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -437,7 +437,7 @@
                         "time": 95326,
                         "gap": {
                             "timeToLead": 2496,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -464,7 +464,7 @@
                         "time": 93863,
                         "gap": {
                             "timeToLead": 1205,
-                            "lapsToLead": -3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -491,7 +491,7 @@
                         "time": 92948,
                         "gap": {
                             "timeToLead": 1311,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -507,7 +507,7 @@
                         "time": 92089,
                         "gap": {
                             "timeToLead": 542,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -518,7 +518,7 @@
                         "time": 92930,
                         "gap": {
                             "timeToLead": 1383,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -568,7 +568,7 @@
                         "time": null,
                         "gap": {
                             "timeToLead": 0,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -579,7 +579,7 @@
                         "time": null,
                         "gap": {
                             "timeToLead": 0,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -595,7 +595,7 @@
                         "time": 103793,
                         "gap": {
                             "timeToLead": 921,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -606,7 +606,7 @@
                         "time": 104240,
                         "gap": {
                             "timeToLead": 1368,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -622,7 +622,7 @@
                         "time": 102852,
                         "gap": {
                             "timeToLead": 1248,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -633,7 +633,7 @@
                         "time": 107836,
                         "gap": {
                             "timeToLead": 6232,
-                            "lapsToLead": -8
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -649,7 +649,7 @@
                         "time": 101727,
                         "gap": {
                             "timeToLead": 301,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -660,7 +660,7 @@
                         "time": 101335,
                         "gap": {
                             "timeToLead": 0,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -692,7 +692,7 @@
                         "time": 101069,
                         "gap": {
                             "timeToLead": 574,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -742,7 +742,7 @@
                         "time": 79285,
                         "gap": {
                             "timeToLead": 1334,
-                            "lapsToLead": -11
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -753,7 +753,7 @@
                         "time": 79844,
                         "gap": {
                             "timeToLead": 1893,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -769,7 +769,7 @@
                         "time": 78035,
                         "gap": {
                             "timeToLead": 751,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -780,7 +780,7 @@
                         "time": 78238,
                         "gap": {
                             "timeToLead": 954,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -796,7 +796,7 @@
                         "time": 77558,
                         "gap": {
                             "timeToLead": 990,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -807,7 +807,7 @@
                         "time": 78693,
                         "gap": {
                             "timeToLead": 2125,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -823,7 +823,7 @@
                         "time": 77244,
                         "gap": {
                             "timeToLead": 265,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -834,7 +834,7 @@
                         "time": 77862,
                         "gap": {
                             "timeToLead": 883,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -850,7 +850,7 @@
                         "time": 76726,
                         "gap": {
                             "timeToLead": 802,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -938,7 +938,7 @@
                         "time": 72165,
                         "gap": {
                             "timeToLead": 59,
-                            "lapsToLead": 12
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -949,7 +949,7 @@
                         "time": 73170,
                         "gap": {
                             "timeToLead": 1064,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -965,7 +965,7 @@
                         "time": 71938,
                         "gap": {
                             "timeToLead": 820,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -976,7 +976,7 @@
                         "time": 72052,
                         "gap": {
                             "timeToLead": 934,
-                            "lapsToLead": 24
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -992,7 +992,7 @@
                         "time": 71539,
                         "gap": {
                             "timeToLead": 274,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1003,7 +1003,7 @@
                         "time": 71738,
                         "gap": {
                             "timeToLead": 473,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1019,7 +1019,7 @@
                         "time": 71597,
                         "gap": {
                             "timeToLead": 163,
-                            "lapsToLead": 8
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1030,7 +1030,7 @@
                         "time": 71740,
                         "gap": {
                             "timeToLead": 306,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1057,7 +1057,7 @@
                         "time": 71457,
                         "gap": {
                             "timeToLead": 839,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1073,7 +1073,7 @@
                         "time": 70641,
                         "gap": {
                             "timeToLead": 475,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1084,7 +1084,7 @@
                         "time": 71041,
                         "gap": {
                             "timeToLead": 875,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1134,7 +1134,7 @@
                         "time": 73755,
                         "gap": {
                             "timeToLead": 988,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1145,7 +1145,7 @@
                         "time": 74570,
                         "gap": {
                             "timeToLead": 1803,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1161,7 +1161,7 @@
                         "time": 73345,
                         "gap": {
                             "timeToLead": 1168,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1172,7 +1172,7 @@
                         "time": 73388,
                         "gap": {
                             "timeToLead": 1211,
-                            "lapsToLead": 17
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1188,7 +1188,7 @@
                         "time": 71842,
                         "gap": {
                             "timeToLead": 999,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1215,7 +1215,7 @@
                         "time": 71619,
                         "gap": {
                             "timeToLead": 419,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1226,7 +1226,7 @@
                         "time": 72023,
                         "gap": {
                             "timeToLead": 823,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1242,7 +1242,7 @@
                         "time": 71196,
                         "gap": {
                             "timeToLead": 186,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1253,7 +1253,7 @@
                         "time": 71800,
                         "gap": {
                             "timeToLead": 790,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1319,7 +1319,7 @@
                         "time": 93618,
                         "gap": {
                             "timeToLead": 880,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1330,7 +1330,7 @@
                         "time": 94091,
                         "gap": {
                             "timeToLead": 1353,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1346,7 +1346,7 @@
                         "time": 92049,
                         "gap": {
                             "timeToLead": 1112,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1357,7 +1357,7 @@
                         "time": 92448,
                         "gap": {
                             "timeToLead": 1511,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1373,7 +1373,7 @@
                         "time": 91538,
                         "gap": {
                             "timeToLead": 1379,
-                            "lapsToLead": 7
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1384,7 +1384,7 @@
                         "time": 91599,
                         "gap": {
                             "timeToLead": 1440,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1400,7 +1400,7 @@
                         "time": 91152,
                         "gap": {
                             "timeToLead": 602,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1438,7 +1438,7 @@
                         "time": 90421,
                         "gap": {
                             "timeToLead": 984,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1515,7 +1515,7 @@
                         "time": 65260,
                         "gap": {
                             "timeToLead": 422,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1526,7 +1526,7 @@
                         "time": 65378,
                         "gap": {
                             "timeToLead": 540,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1542,7 +1542,7 @@
                         "time": 65487,
                         "gap": {
                             "timeToLead": 401,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1553,7 +1553,7 @@
                         "time": 65879,
                         "gap": {
                             "timeToLead": 793,
-                            "lapsToLead": 24
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1580,7 +1580,7 @@
                         "time": 65152,
                         "gap": {
                             "timeToLead": 1165,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1607,7 +1607,7 @@
                         "time": 64412,
                         "gap": {
                             "timeToLead": 605,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1623,7 +1623,7 @@
                         "time": 63835,
                         "gap": {
                             "timeToLead": 457,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1634,7 +1634,7 @@
                         "time": 63988,
                         "gap": {
                             "timeToLead": 610,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1661,7 +1661,7 @@
                         "time": 64199,
                         "gap": {
                             "timeToLead": 1196,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1722,7 +1722,7 @@
                         "time": 88009,
                         "gap": {
                             "timeToLead": 836,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1738,7 +1738,7 @@
                         "time": 87249,
                         "gap": {
                             "timeToLead": 517,
-                            "lapsToLead": -6
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1749,7 +1749,7 @@
                         "time": 87562,
                         "gap": {
                             "timeToLead": 830,
-                            "lapsToLead": -7
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1765,7 +1765,7 @@
                         "time": 86118,
                         "gap": {
                             "timeToLead": 213,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1776,7 +1776,7 @@
                         "time": 86440,
                         "gap": {
                             "timeToLead": 535,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1792,7 +1792,7 @@
                         "time": 85700,
                         "gap": {
                             "timeToLead": 187,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1803,7 +1803,7 @@
                         "time": 86273,
                         "gap": {
                             "timeToLead": 760,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1819,7 +1819,7 @@
                         "time": 85848,
                         "gap": {
                             "timeToLead": 302,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1830,7 +1830,7 @@
                         "time": 86038,
                         "gap": {
                             "timeToLead": 492,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1846,7 +1846,7 @@
                         "time": 85276,
                         "gap": {
                             "timeToLead": 183,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1857,7 +1857,7 @@
                         "time": 85590,
                         "gap": {
                             "timeToLead": 497,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1907,7 +1907,7 @@
                         "time": 74330,
                         "gap": {
                             "timeToLead": 317,
-                            "lapsToLead": -7
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1918,7 +1918,7 @@
                         "time": 74813,
                         "gap": {
                             "timeToLead": 800,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1934,7 +1934,7 @@
                         "time": 74133,
                         "gap": {
                             "timeToLead": 684,
-                            "lapsToLead": 10
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1945,7 +1945,7 @@
                         "time": 75089,
                         "gap": {
                             "timeToLead": 1640,
-                            "lapsToLead": 14
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1961,7 +1961,7 @@
                         "time": 72548,
                         "gap": {
                             "timeToLead": 168,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1972,7 +1972,7 @@
                         "time": 73324,
                         "gap": {
                             "timeToLead": 944,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -1988,7 +1988,7 @@
                         "time": 72593,
                         "gap": {
                             "timeToLead": 364,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -1999,7 +1999,7 @@
                         "time": 72991,
                         "gap": {
                             "timeToLead": 762,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2015,7 +2015,7 @@
                         "time": 72385,
                         "gap": {
                             "timeToLead": 236,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2026,7 +2026,7 @@
                         "time": 72427,
                         "gap": {
                             "timeToLead": 278,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2103,7 +2103,7 @@
                         "time": 77398,
                         "gap": {
                             "timeToLead": 165,
-                            "lapsToLead": 13
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2114,7 +2114,7 @@
                         "time": 77682,
                         "gap": {
                             "timeToLead": 449,
-                            "lapsToLead": 16
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2141,7 +2141,7 @@
                         "time": 77909,
                         "gap": {
                             "timeToLead": 55,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2157,7 +2157,7 @@
                         "time": 76097,
                         "gap": {
                             "timeToLead": 13,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2168,7 +2168,7 @@
                         "time": 76684,
                         "gap": {
                             "timeToLead": 600,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2195,7 +2195,7 @@
                         "time": 76716,
                         "gap": {
                             "timeToLead": 899,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2222,7 +2222,7 @@
                         "time": 76393,
                         "gap": {
                             "timeToLead": 845,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2249,7 +2249,7 @@
                         "time": 75450,
                         "gap": {
                             "timeToLead": 878,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2299,7 +2299,7 @@
                         "time": 105507,
                         "gap": {
                             "timeToLead": 933,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2310,7 +2310,7 @@
                         "time": 105584,
                         "gap": {
                             "timeToLead": 1010,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2326,7 +2326,7 @@
                         "time": 105394,
                         "gap": {
                             "timeToLead": 1271,
-                            "lapsToLead": 8
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2337,7 +2337,7 @@
                         "time": 105771,
                         "gap": {
                             "timeToLead": 1648,
-                            "lapsToLead": 7
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2353,7 +2353,7 @@
                         "time": 105312,
                         "gap": {
                             "timeToLead": 1106,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2364,7 +2364,7 @@
                         "time": 110681,
                         "gap": {
                             "timeToLead": 6475,
-                            "lapsToLead": -5
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2380,7 +2380,7 @@
                         "time": 104622,
                         "gap": {
                             "timeToLead": 1035,
-                            "lapsToLead": -3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2391,7 +2391,7 @@
                         "time": 105528,
                         "gap": {
                             "timeToLead": 1941,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2407,7 +2407,7 @@
                         "time": 104132,
                         "gap": {
                             "timeToLead": 1194,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2418,7 +2418,7 @@
                         "time": 105799,
                         "gap": {
                             "timeToLead": 2861,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2434,7 +2434,7 @@
                         "time": 103690,
                         "gap": {
                             "timeToLead": 1171,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2484,7 +2484,7 @@
                         "time": 89025,
                         "gap": {
                             "timeToLead": 1120,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2495,7 +2495,7 @@
                         "time": 90100,
                         "gap": {
                             "timeToLead": 2195,
-                            "lapsToLead": 9
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2511,7 +2511,7 @@
                         "time": 81350,
                         "gap": {
                             "timeToLead": 372,
-                            "lapsToLead": 8
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2522,7 +2522,7 @@
                         "time": 81589,
                         "gap": {
                             "timeToLead": 611,
-                            "lapsToLead": 7
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2538,7 +2538,7 @@
                         "time": 80326,
                         "gap": {
                             "timeToLead": 32,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2549,7 +2549,7 @@
                         "time": 80827,
                         "gap": {
                             "timeToLead": 533,
-                            "lapsToLead": -3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2565,7 +2565,7 @@
                         "time": 80382,
                         "gap": {
                             "timeToLead": 256,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2576,7 +2576,7 @@
                         "time": null,
                         "gap": {
                             "timeToLead": 0,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2608,7 +2608,7 @@
                         "time": null,
                         "gap": {
                             "timeToLead": 0,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2669,7 +2669,7 @@
                         "time": 101467,
                         "gap": {
                             "timeToLead": 1208,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2696,7 +2696,7 @@
                         "time": 99943,
                         "gap": {
                             "timeToLead": 1170,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2712,7 +2712,7 @@
                         "time": 99258,
                         "gap": {
                             "timeToLead": 1066,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2723,7 +2723,7 @@
                         "time": 99366,
                         "gap": {
                             "timeToLead": 1174,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2739,7 +2739,7 @@
                         "time": 98540,
                         "gap": {
                             "timeToLead": 1223,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2750,7 +2750,7 @@
                         "time": 99106,
                         "gap": {
                             "timeToLead": 1789,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2793,7 +2793,7 @@
                         "time": 96813,
                         "gap": {
                             "timeToLead": 596,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2804,7 +2804,7 @@
                         "time": 97411,
                         "gap": {
                             "timeToLead": 1194,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2854,7 +2854,7 @@
                         "time": 94544,
                         "gap": {
                             "timeToLead": 82,
-                            "lapsToLead": -5
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2865,7 +2865,7 @@
                         "time": 95484,
                         "gap": {
                             "timeToLead": 1022,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2892,7 +2892,7 @@
                         "time": 95216,
                         "gap": {
                             "timeToLead": 2054,
-                            "lapsToLead": 11
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2908,7 +2908,7 @@
                         "time": 94227,
                         "gap": {
                             "timeToLead": 1494,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2919,7 +2919,7 @@
                         "time": 94371,
                         "gap": {
                             "timeToLead": 1638,
-                            "lapsToLead": -7
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2935,7 +2935,7 @@
                         "time": 93368,
                         "gap": {
                             "timeToLead": 336,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -2946,7 +2946,7 @@
                         "time": 99197,
                         "gap": {
                             "timeToLead": 6165,
-                            "lapsToLead": 5
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2962,7 +2962,7 @@
                         "time": 92634,
                         "gap": {
                             "timeToLead": 200,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -2978,7 +2978,7 @@
                         "time": 92310,
                         "gap": {
                             "timeToLead": 682,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3028,7 +3028,7 @@
                         "time": 90046,
                         "gap": {
                             "timeToLead": 1315,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3039,7 +3039,7 @@
                         "time": 90375,
                         "gap": {
                             "timeToLead": 1644,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3055,7 +3055,7 @@
                         "time": 88066,
                         "gap": {
                             "timeToLead": 281,
-                            "lapsToLead": 9
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3066,7 +3066,7 @@
                         "time": 88402,
                         "gap": {
                             "timeToLead": 617,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3082,7 +3082,7 @@
                         "time": 88754,
                         "gap": {
                             "timeToLead": 349,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3197,7 +3197,7 @@
                         "time": 77461,
                         "gap": {
                             "timeToLead": 134,
-                            "lapsToLead": 8
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3208,7 +3208,7 @@
                         "time": 77949,
                         "gap": {
                             "timeToLead": 622,
-                            "lapsToLead": 4
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3224,7 +3224,7 @@
                         "time": 76722,
                         "gap": {
                             "timeToLead": 115,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3235,7 +3235,7 @@
                         "time": 81665,
                         "gap": {
                             "timeToLead": 5058,
-                            "lapsToLead": 30
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3251,7 +3251,7 @@
                         "time": 76903,
                         "gap": {
                             "timeToLead": 758,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3262,7 +3262,7 @@
                         "time": 77094,
                         "gap": {
                             "timeToLead": 949,
-                            "lapsToLead": -5
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3289,7 +3289,7 @@
                         "time": 76175,
                         "gap": {
                             "timeToLead": 226,
-                            "lapsToLead": -3
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3305,7 +3305,7 @@
                         "time": 76136,
                         "gap": {
                             "timeToLead": 415,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3316,7 +3316,7 @@
                         "time": 76574,
                         "gap": {
                             "timeToLead": 853,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3343,7 +3343,7 @@
                         "time": 75336,
                         "gap": {
                             "timeToLead": 578,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3404,7 +3404,7 @@
                         "time": 94316,
                         "gap": {
                             "timeToLead": 259,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3420,7 +3420,7 @@
                         "time": 93547,
                         "gap": {
                             "timeToLead": 315,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3431,7 +3431,7 @@
                         "time": 94434,
                         "gap": {
                             "timeToLead": 1202,
-                            "lapsToLead": 2
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3458,7 +3458,7 @@
                         "time": 93983,
                         "gap": {
                             "timeToLead": 678,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3474,7 +3474,7 @@
                         "time": 93549,
                         "gap": {
                             "timeToLead": 196,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3485,7 +3485,7 @@
                         "time": 93984,
                         "gap": {
                             "timeToLead": 631,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3501,7 +3501,7 @@
                         "time": 92898,
                         "gap": {
                             "timeToLead": 138,
-                            "lapsToLead": 3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3539,7 +3539,7 @@
                         "time": 92548,
                         "gap": {
                             "timeToLead": 519,
-                            "lapsToLead": 1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3600,7 +3600,7 @@
                         "time": null,
                         "gap": {
                             "timeToLead": 0,
-                            "lapsToLead": 6
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3616,7 +3616,7 @@
                         "time": 69351,
                         "gap": {
                             "timeToLead": 134,
-                            "lapsToLead": -3
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3627,7 +3627,7 @@
                         "time": 70275,
                         "gap": {
                             "timeToLead": 1058,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     }
                 ]
@@ -3643,7 +3643,7 @@
                         "time": 68346,
                         "gap": {
                             "timeToLead": 26,
-                            "lapsToLead": -1
+                            "lapsToLead": 0
                         }
                     },
                     {
@@ -3681,7 +3681,7 @@
                         "time": 68503,
                         "gap": {
                             "timeToLead": 261,
-                            "lapsToLead": -2
+                            "lapsToLead": 0
                         }
                     }
                 ]
