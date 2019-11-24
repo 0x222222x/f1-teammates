@@ -3,7 +3,7 @@ F1 Teammate Battles
 
 Side by side comparison of fastest laps on each recorded session.
 
-[ image ]
+![cover](docs/cover.png)
 
 Online
 -------------------
