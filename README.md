@@ -11,9 +11,9 @@ Online
 
 Description
 -------------------
-[WDC standings](https://www.formula1.com/en/results.html/2019/drivers.html) and [qualifying battles](https://www.formula1.com/en/latest/article.head-to-head-how-2019s-f1-team-mates-compare-at-the-summer-break.YEEBnDYgMTAgsVMT8HCFW.html) are widely documented, but they might not tell the whole story. i.e. DriverA might be faster all weekend, but finish behind DriverB in the race for various reasons.
+[Championship standings](https://www.formula1.com/en/results.html/2019/drivers.html) and [qualifying head to head](https://www.formula1.com/en/latest/article.head-to-head-how-2019s-f1-team-mates-compare-at-the-summer-break.YEEBnDYgMTAgsVMT8HCFW.html) are well documented, but they might not tell the whole story. i.e. DriverA might be faster all weekend, but finish behind DriverB in the race for various reasons.
 
-This project uses data from all seven sessions on every event: FP1, FP2, FP3, Q1, Q2, Q3 and RACE. 
+This project uses data from all sessions of every calendar event: FP1, FP2, FP3, Q1, Q2, Q3 and RACE. 
 
 The graphs show the gap to the leader of each session. The fastest time is highlighted to make it easy to visualise which driver was faster.
 
