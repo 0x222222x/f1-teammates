@@ -2963,6 +2963,152 @@
     },
     {
         "event": "ARE",
-        "sessions": []
+        "sessions": [
+            {
+                "session": "Practice 1",
+                "details": [
+                    {
+                        "finishPosition": 18,
+                        "classifiedStatus": "CLA",
+                        "driver": "KUB",
+                        "laps": 21,
+                        "time": 100792,
+                        "gap": {
+                            "timeToLead": 3835,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 20,
+                        "classifiedStatus": "CLA",
+                        "driver": "RUSG",
+                        "laps": 24,
+                        "time": 101362,
+                        "gap": {
+                            "timeToLead": 4405,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 2",
+                "details": [
+                    {
+                        "finishPosition": 19,
+                        "classifiedStatus": "CLA",
+                        "driver": "RUSG",
+                        "laps": 32,
+                        "time": 99512,
+                        "gap": {
+                            "timeToLead": 3256,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 20,
+                        "classifiedStatus": "CLA",
+                        "driver": "KUB",
+                        "laps": 32,
+                        "time": 100455,
+                        "gap": {
+                            "timeToLead": 4199,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Practice 3",
+                "details": [
+                    {
+                        "finishPosition": 19,
+                        "classifiedStatus": "CLA",
+                        "driver": "RUSG",
+                        "laps": 16,
+                        "time": 99206,
+                        "gap": {
+                            "timeToLead": 2640,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 20,
+                        "classifiedStatus": "CLA",
+                        "driver": "KUB",
+                        "laps": 17,
+                        "time": 99859,
+                        "gap": {
+                            "timeToLead": 3293,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 1",
+                "details": [
+                    {
+                        "finishPosition": 19,
+                        "classifiedStatus": "CLA",
+                        "driver": "RUSG",
+                        "laps": 8,
+                        "time": 98717,
+                        "gap": {
+                            "timeToLead": 2866,
+                            "lapsToLead": 0
+                        }
+                    },
+                    {
+                        "finishPosition": 20,
+                        "classifiedStatus": "CLA",
+                        "driver": "KUB",
+                        "laps": 6,
+                        "time": 99236,
+                        "gap": {
+                            "timeToLead": 3385,
+                            "lapsToLead": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "session": "Qualifying 2",
+                "details": []
+            },
+            {
+                "session": "Qualifying 3",
+                "details": []
+            },
+            {
+                "session": "Race",
+                "details": [
+                    {
+                        "finishPosition": 17,
+                        "classifiedStatus": "CLA",
+                        "driver": "RUSG",
+                        "laps": 54,
+                        "time": 5743499,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 1
+                        }
+                    },
+                    {
+                        "finishPosition": 19,
+                        "classifiedStatus": "CLA",
+                        "driver": "KUB",
+                        "laps": 53,
+                        "time": 5669473,
+                        "gap": {
+                            "timeToLead": 0,
+                            "lapsToLead": 2
+                        }
+                    }
+                ],
+                "leaderTime": 5645715,
+                "leaderAvgLap": 102649
+            }
+        ]
     }
 ]

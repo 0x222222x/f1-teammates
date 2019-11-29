@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"id": "AUS",
+			"country": "Australia",
+			"name": "Formula 1 Rolex Australian Grand Prix 2019",
+			"sessions": [
+				{
+					"id": "FP1",
+					"start": 0123
+				}
+			]
+		}
+	]
+}
